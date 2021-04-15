@@ -48,7 +48,7 @@ async def progress_for_pyrogram(
             round(percentage, 2))
 
         tmp = progress + "<b>✅Completed:</b>{0} \n<b>📁Total Size:</b> {1}\n<b>🚀Speed:</b> {2}/s\n<b>⌚️ETA:</b> {3}\n
-        <b> 📬 Powered By : @WolfProjects </>".format(
+        <b> 🚀 Powered By : @ML_BotUpdates </>".format(
             humanbytes(current),
             humanbytes(total),
             humanbytes(speed),
